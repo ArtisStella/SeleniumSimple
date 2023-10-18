@@ -29,7 +29,7 @@ public class HelperMethods {
     }
 
     public static void verifyTitle(String expectedTitle) {
-        System.out.println("\nTitle Test");
+        System.out.println("\n  Title Test");
         String actualTitle = driver.getTitle();
         
         if (actualTitle.equals(expectedTitle)) {

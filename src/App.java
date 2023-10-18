@@ -8,7 +8,8 @@ public class App {
         //  Title Test
         HelperMethods.verifyTitle("Swag Labs");
         
-        LoginTest test = LoginTest();
+        LoginTest test = new LoginTest();
+        test.Execute();
     }
 }
 
