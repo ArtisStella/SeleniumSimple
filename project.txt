@@ -1,0 +1,16 @@
+login pe project 
+
+(separate classes)
+
+login ke jitne bhi kaam wo method me jayen ge (check title, enter text, click)
+
+product listing page:
+xpath for all products, choose random xpaths with index (create helper function for random)
+put the random name,its price into a variable, then click add to cart.
+
+class initiate karke random div ko variable me daldena
+
+
+check karlo ye random element cart me aye ke nahi aya
+
+bhai bas end tak karna hai
